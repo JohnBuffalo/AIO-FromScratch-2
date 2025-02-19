@@ -1,0 +1,11 @@
+﻿Library
+Logs
+obj
+.idea
+*.csproj
+*.sln
+*.user
+UserSettings
+Temp
+Bundles
+yoo
